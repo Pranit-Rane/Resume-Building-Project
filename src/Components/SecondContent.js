@@ -21,7 +21,7 @@ export default class SecondContent extends Component{
                     </div>
                     <div className="row">
                         <div className="col-md-4 col-xs-4" align="center">
-                            <a href="https://www.linkedin.com/in/pranit-rane-23a3a1110" title="Github"><img src="/Github_Logo.svg" class="img-fluid" alt=""></img></a>
+                            <a href="https://github.com/Pranit-Rane" title="Github"><img src="/Github_Logo.svg" class="img-fluid" alt=""></img></a>
                         </div>
                         <div className="col-md-4 col-xs-4" align="center">
                             <a href="https://www.linkedin.com/in/pranit-rane-23a3a1110" title="LinkedIn Account"><img src="/linkedin-logo.webp" class="img-fluid" alt=""></img></a>
